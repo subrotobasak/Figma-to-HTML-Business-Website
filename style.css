@@ -1,0 +1,12 @@
+.header-area a {
+    font-weight: 600;
+}
+
+.header-area .nav-link:hover {
+    background-color: #ef6d58;
+}
+
+.slider-area p {
+    height: 350px;
+    text-align: center;
+}
